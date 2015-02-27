@@ -1,0 +1,13 @@
+liblldp_clif.so.1:clif_attach
+liblldp_clif.so.1:clif_close
+liblldp_clif.so.1:clif_detach
+liblldp_clif.so.1:clif_get_fd
+liblldp_clif.so.1:clif_getpid
+liblldp_clif.so.1:clif_open
+liblldp_clif.so.1:clif_pending
+liblldp_clif.so.1:clif_pending_wait
+liblldp_clif.so.1:clif_recv
+liblldp_clif.so.1:clif_request
+liblldp_clif.so.1:clif_vsi
+liblldp_clif.so.1:clif_vsievt
+liblldp_clif.so.1:clif_vsiwait
