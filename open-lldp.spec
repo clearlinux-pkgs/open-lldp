@@ -4,7 +4,7 @@
 #
 Name     : open-lldp
 Version  : 1.0.1
-Release  : 16
+Release  : 17
 URL      : http://localhost/cgit/projects/open-lldp/snapshot/open-lldp-1.0.1.tar.gz
 Source0  : http://localhost/cgit/projects/open-lldp/snapshot/open-lldp-1.0.1.tar.gz
 Summary  : LLDP Agent with Data Center Bridging support
