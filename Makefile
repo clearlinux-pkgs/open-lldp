@@ -1,5 +1,5 @@
 PKG_NAME := open-lldp
-URL = $(CGIT_BASE_URL)/projects/open-lldp/snapshot/open-lldp-1.0.1.tar.gz
-
+URL = https://github.com/intel/openlldp/archive/v1.1/openlldp-1.1.tar.gz
+ARCHIVES = 
 
 include ../common/Makefile.common
