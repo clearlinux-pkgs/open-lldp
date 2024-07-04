@@ -1,2 +1,10 @@
 Configure miss: checking for errors flag
+Configure miss: checking for errors flag
+Configure miss: g++ option to enable C++11 features
+Configure miss: g++ option to enable C++11 features
+Configure miss: library containing yywrap
+Configure miss: library containing yywrap
 Configure miss: rtnl_link_get_by_name in -lnl3
+Configure miss: rtnl_link_get_by_name in -lnl3
+Configure miss: x86_64-generic-linux-gnu-file
+Configure miss: x86_64-generic-linux-gnu-file
